@@ -1,4 +1,4 @@
-package ua.dp.skillsup.java0.calcualtor.operations;
+package ua.dp.skillsup.java0.calculator.operations;
 
 /**
  * Операция "сложение"

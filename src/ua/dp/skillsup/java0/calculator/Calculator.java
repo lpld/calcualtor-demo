@@ -1,7 +1,7 @@
-package ua.dp.skillsup.java0.calcualtor;
+package ua.dp.skillsup.java0.calculator;
 
-import ua.dp.skillsup.java0.calcualtor.input.CalculatorInput;
-import ua.dp.skillsup.java0.calcualtor.output.CalculatorOutput;
+import ua.dp.skillsup.java0.calculator.input.CalculatorInput;
+import ua.dp.skillsup.java0.calculator.output.CalculatorOutput;
 
 /**
  * Класс "калькулятор", который умеет последовательно брать выражения

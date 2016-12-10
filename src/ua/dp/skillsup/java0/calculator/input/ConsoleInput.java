@@ -1,8 +1,8 @@
-package ua.dp.skillsup.java0.calcualtor.input;
+package ua.dp.skillsup.java0.calculator.input;
 
 import java.util.Scanner;
 
-import ua.dp.skillsup.java0.calcualtor.expression.Expression;
+import ua.dp.skillsup.java0.calculator.expression.Expression;
 
 /**
  * Ввод для калькулятора из консоли.

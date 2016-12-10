@@ -1,6 +1,6 @@
-package ua.dp.skillsup.java0.calcualtor.input;
+package ua.dp.skillsup.java0.calculator.input;
 
-import ua.dp.skillsup.java0.calcualtor.expression.Expression;
+import ua.dp.skillsup.java0.calculator.expression.Expression;
 
 /**
  * Ввод для калькулятора. Этот интерфейс скрывает под собой "поток" входных данных.

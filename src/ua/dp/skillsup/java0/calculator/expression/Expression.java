@@ -1,4 +1,4 @@
-package ua.dp.skillsup.java0.calcualtor.expression;
+package ua.dp.skillsup.java0.calculator.expression;
 
 /**
  * Абстракция, представляющая собой арифметическое выражение.

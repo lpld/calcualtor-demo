@@ -1,7 +1,7 @@
-package ua.dp.skillsup.java0.calcualtor.expression;
+package ua.dp.skillsup.java0.calculator.expression;
 
 
-import ua.dp.skillsup.java0.calcualtor.operations.Operation;
+import ua.dp.skillsup.java0.calculator.operations.Operation;
 
 /**
  * Сложное выражение, состоящее из двух других выражение и связывающей их операции.

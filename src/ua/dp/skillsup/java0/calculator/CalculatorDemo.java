@@ -1,8 +1,8 @@
-package ua.dp.skillsup.java0.calcualtor;
+package ua.dp.skillsup.java0.calculator;
 
-import ua.dp.skillsup.java0.calcualtor.input.ConsoleInput;
-import ua.dp.skillsup.java0.calcualtor.input.StringInput;
-import ua.dp.skillsup.java0.calcualtor.output.ConsoleOutput;
+import ua.dp.skillsup.java0.calculator.input.ConsoleInput;
+import ua.dp.skillsup.java0.calculator.input.StringInput;
+import ua.dp.skillsup.java0.calculator.output.ConsoleOutput;
 
 /**
  * Точка входа в программу.

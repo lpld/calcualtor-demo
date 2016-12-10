@@ -1,4 +1,4 @@
-package ua.dp.skillsup.java0.calcualtor.output;
+package ua.dp.skillsup.java0.calculator.output;
 
 /**
  * Выыод калькулятора

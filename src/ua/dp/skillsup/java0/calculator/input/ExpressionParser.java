@@ -1,10 +1,10 @@
-package ua.dp.skillsup.java0.calcualtor.input;
+package ua.dp.skillsup.java0.calculator.input;
 
-import ua.dp.skillsup.java0.calcualtor.expression.ComplexExpression;
-import ua.dp.skillsup.java0.calcualtor.expression.Expression;
-import ua.dp.skillsup.java0.calcualtor.expression.Value;
-import ua.dp.skillsup.java0.calcualtor.operations.Operation;
-import ua.dp.skillsup.java0.calcualtor.operations.Operations;
+import ua.dp.skillsup.java0.calculator.expression.ComplexExpression;
+import ua.dp.skillsup.java0.calculator.expression.Expression;
+import ua.dp.skillsup.java0.calculator.expression.Value;
+import ua.dp.skillsup.java0.calculator.operations.Operation;
+import ua.dp.skillsup.java0.calculator.operations.Operations;
 
 /**
  * Класс отвечающий за преобразование строки (String) в выражение (Expression)

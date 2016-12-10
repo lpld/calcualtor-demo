@@ -1,7 +1,7 @@
-package ua.dp.skillsup.java0.calcualtor.input;
+package ua.dp.skillsup.java0.calculator.input;
 
 
-import ua.dp.skillsup.java0.calcualtor.expression.Expression;
+import ua.dp.skillsup.java0.calculator.expression.Expression;
 
 /**
  * CalculatorInput, состоящий из одной строки.
